@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi there, I'm Jeremy Wijaya 👋</h1>
-<h3 align="center">A Data & Web Enthusiast from Indonesia crafting solutions with code.</h3>
+<h3 align="center">An AI & Software Developer from Indonesia, building intelligent solutions with code.</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a computer science student passionate about building predictive models and creating intuitive web experiences. I love diving into data to uncover stories and building applications that are both functional and user-friendly.
+As a computer science student, I'm passionate about the intersection of data and user experience. I love building predictive models that uncover hidden stories and then bringing those insights to life through intuitive web applications.
 
-- 🔭 I’m currently building a **Portfolio Website** with TypeScript and React.
-- 🌱 I’m learning about **Cloud Deployment strategies**.
+- 🔭 I’m currently building a **Website called CodeJoin** with NEXT.JS and supabase.
+- 🌱 I’m deepening my skills in **AI**.
 - 👯 I’m looking to collaborate on **open-source web applications**.
 - 📫 You can reach me at: **jeremywijaya81@gmail.com**
 
