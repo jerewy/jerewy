@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="URL_TO_YOUR_BANNER_IMAGE" alt="Your Name Banner"/>
+  <img src="./banner.gif" alt="Your Name Banner"/>
 </p>
 
 <h1 align="center">Hi there, I'm Jeremy Wijaya 👋</h1>
