@@ -62,3 +62,5 @@ As a computer science student, I'm passionate about the intersection of data and
 <a href="https://www.youtube.com/@JeremyWijaya"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="mailto:jeremywijaya81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+![My GitHub Snake Animation](https://github.com/jerewy/jerewy/blob/output/github-snake-dark.svg)
