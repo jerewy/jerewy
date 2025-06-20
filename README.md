@@ -59,5 +59,8 @@ I'm a computer science student passionate about building predictive models and c
 ### 🌐 Connect with Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/jeremy-wijaya/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[https://instagram.com/YOUR_USERNAME](https://www.instagram.com/jerewyyy/)"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="[https://youtube.com/c/YOUR_CHANNEL_ID](https://www.youtube.com/@JeremyWijaya)"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="mailto:jeremywijaya81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
