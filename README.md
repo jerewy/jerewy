@@ -62,7 +62,3 @@ As a computer science student, I'm passionate about the intersection of data and
 <a href="https://www.youtube.com/@JeremyWijaya"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="mailto:jeremywijaya81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFqOWw2dDNib2pnaDVpNmp5cGQ2MHV1dG12MXUybG96aW42bnlqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/43Az6l5m52GZ5vKx6E/giphy.gif" width="100" alt="Pac-Man">
-</p>
